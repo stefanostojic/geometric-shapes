@@ -100,7 +100,7 @@ public class Point extends Shape {
 	}
 	
 	public String toString() {
-		return "(" + x + "," + y + ")";
+		return "(" + x + ", " + y + ")";
 	}
 
 
